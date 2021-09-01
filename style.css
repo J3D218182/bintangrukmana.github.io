@@ -1,0 +1,33 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #161b22;
+}
+
+.display-4 {
+  color: #f5f5f5;
+}
+.lead {
+  color: #f5f5f5;
+}
+
+#about {
+  color: #f5f5f5;
+}
+
+#certificate {
+  color: #f5f5f5;
+}
+
+#contact {
+  color: #f5f5f5;
+  padding-bottom: 3rem;
+}
+section {
+  padding-top: 5rem;
+}
+#transkrip {
+  color: #f5f5f5;
+}
